@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.python-version
+
+# Environments
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Env files
+.env
+.env.*
+
+# Chroma persistence
+.chroma/
+
+# Playwright / browsers
+playwright/.cache/
+
+# Logs
+logs/
+*.log
